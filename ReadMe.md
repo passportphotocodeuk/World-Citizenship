@@ -15,7 +15,7 @@ If you want to donate to me personally I’d be very grateful and it will go tow
 
 ## Goal
 
-The goal of this project is to learn and layout a simple process for anyone in the world to create their own Private Passport Service that can be used to validate and prove the existence of other persons using nothing but available tools.
+The goal of this project is to learn and layout a simple process for anyone in the world to create their own Private [Passport Photo](https://passportphotocodeuk.com/) Service that can be used to validate and prove the existence of other persons using nothing but available tools.
 
 We will prefer open source where available and we will draw on the cryptographic tools like "Pretty Good Privacy" (PGP) which utilizes public key cryptography, and blockchain technology in the form of Bitcoin.
 
